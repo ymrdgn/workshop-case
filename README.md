@@ -1,10 +1,11 @@
 ### `Table with Lazy - Table with Pagination`
 
-An application that demonstrates the changes made to the given dummy data with a moving bar chart
+Table that can be filtered and sorted with lazy.
+Table that can be filtered and sorted with pagination.
 
 ### `Project Screenshot`
 
-![app-example-image](https://i.hizliresim.com/79cepub.gif)
+![app-example-image](https://i.hizliresim.com/ovab0fs.gif)
 
 
 ### `Installation and Setup Instructions`
