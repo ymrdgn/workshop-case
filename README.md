@@ -1,11 +1,11 @@
 ### `Table with Lazy - Table with Pagination`
 
-Table that can be filtered and sorted with lazy.
-Table that can be filtered and sorted with pagination.
+Table component that can be filtered and sorted with lazy loading.
+Table component that can be filtered and sorted with pagination.
 
-### `Project Screenshot`
+### `Project Screen`
 
-![app-example-image](https://i.hizliresim.com/ovab0fs.gif)
+https://user-images.githubusercontent.com/97971295/227725701-149055a4-5304-44e5-b296-09ce5196cd89.mp4
 
 
 ### `Installation and Setup Instructions`
